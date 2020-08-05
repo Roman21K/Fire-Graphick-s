@@ -151,6 +151,14 @@ img{
     margin-top: 30px;
     margin-left: 1%;
 }
+}
+@media screen and (max-width:1130px){
+
+    img{
+        height: 200px;
+    }
+
+}
 @media screen and (max-width:1000px){
     img{
         height: 400px;
@@ -160,7 +168,7 @@ img{
 
 @media screen and (max-width:800px){
     img{
-        height: 370px;
+        height: 200px;
     }
     .informacion h1{
         font-size: 70px;
