@@ -231,8 +231,18 @@ img{
   
     
 }
+.container a{
+    font-weight: 700;
+    font-family: 'open sans';
+    transition: all 1s, background-color .76s ;
+}
 .container a:hover{
     color:  #ff0241;
+    background-color: #fff;
+    font-size: 45px;
+    width: 350px;
+    
+    
 
 }
 
