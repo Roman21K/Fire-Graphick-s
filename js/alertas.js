@@ -3,7 +3,7 @@ function Info(){
     Swal.fire({
         icon: 'info',
         title: 'Envianos un correo:',
-        html: '<p> <b> nombre_empresa@gmail.com </b> </p>',        
+        html: '<p> <b> fire_graphics@gmail.com </b> </p>',        
         confirmButtonText: 'Listo',
         
 
